@@ -30,7 +30,7 @@ public class homework2 {
 
         boolean redIsHitFromBehind=true;
         boolean blackIsHitFromBehind=false;
-        if(redIsHitFromBehind&& !blackIsHitFromBehind){
+        if(redIsHitFromBehind && !blackIsHitFromBehind){
             System.out.println("black");
         }
         else if(!redIsHitFromBehind && blackIsHitFromBehind){
